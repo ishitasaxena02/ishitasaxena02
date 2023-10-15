@@ -12,8 +12,8 @@ I'm a passionate software engineer based in Lucknow, India, with a strong backgr
 
 Connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [GitHub](https://github.com/your-github-profile)
+- [LinkedIn](https://www.linkedin.com/in/ishita-saxena-254b95204/)
+- [GitHub](https://github.com/ishitasaxena02)
 
 ## Skills
 
